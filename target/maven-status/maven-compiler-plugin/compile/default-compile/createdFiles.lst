@@ -1,5 +1,6 @@
 com\portfolio\mec\Dto\dtoProyectos.class
 com\portfolio\mec\Security\jwt\JwtEntryPoint.class
+com\portfolio\mec\WebConfig.class
 com\portfolio\mec\Dto\dtoExperiencia.class
 com\portfolio\mec\Dto\dtoHys.class
 com\portfolio\mec\Repository\RHys.class
